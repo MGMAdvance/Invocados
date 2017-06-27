@@ -17,11 +17,26 @@ session_destroy();
 		<div class="pacote centralizado">
 			<div class="destaque caixa-azul">
 				<a href="sum.php">
-					<div>Verificar invocador</div>
+					<div>Verificar invocador (1.0)</div>
 				</a>
 			</div>
 		</div>
-		
+		<div class="pacote centralizado">
+			<div class="destaque caixa-azul">
+				<a href="invoker.php">
+					<div>Analisar invocador (2.0)</div>
+				</a>
+			</div>
+		</div>
+
+		</div>
+		<div class="borda">
+			<p class="centralizado" style="padding: 50px;">Teste de borda</p>
+		</div>
+		<div class="centralizado">
+			<p><h1 class="texto-borrado">Testando borrado</h1></p>
+		</div>
+
 	</main>
 </body>
 </html>

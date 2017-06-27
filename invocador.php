@@ -12,7 +12,7 @@ $nome = $string;
 
 //Insira seu API KEY, caso não tenha obtenha facilmente apenas logando com sua conta do lol (ele aceita de qualquer região)
 //Facilitando sua vida: https://developer.riotgames.com/ 
-$key = "<SUA_API_KEY>";
+$key = "Sua API_KEY";
 //Poderia deixar essa key em um arquivo de conexão (ex.: conn.php) por questões de manutenção e segurança
 
 //Check a região correta aqui: https://developer.riotgames.com/regional-endpoints.html

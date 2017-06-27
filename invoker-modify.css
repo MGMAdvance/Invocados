@@ -1,0 +1,35 @@
+/* 
+	Invoker.css
+	CSS desenvolvido para facilitar a fixação e compreendimento sobre o mesmo.
+
+	Divirta-se
+
+	https://github.com/MGMAdvance/Invoker
+*/
+
+.campo-direita{
+	position: absolute;
+    top: 8px;
+    right: 16px;
+    transition: all 0.4s;
+}
+
+.campo-pr{
+	background-color: black;
+}
+
+.caixa-sombra {
+	box-shadow: 0 2px 13px black;
+}
+
+.destaque{
+	transition: all 0.3s cubic-bezier(0.74, 0.46, 0.24, 1.25);
+}
+.destaque:hover
+{
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+
